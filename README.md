@@ -25,13 +25,9 @@ recommend the following: `find`, `awk`, `sort` and `head`.
 
 ##Start
 
-0. Install composer.phar (if you don't already have it)
-    - [*nix installation guide](https://getcomposer.org/doc/00-intro.md#installation-nix)
-    - [Windows installation guide](https://getcomposer.org/doc/00-intro.md#installation-windows)
-
-1. Clone the repository and install dependencies
+1. Clone the repository
     - `git clone https://github.com/cuevae/code-katas-unix-disk-usage-housekeeping.git`
-    - `cd code-katas-unix-disk-usage-housekeeping; composer install`
+    - `cd code-katas-unix-disk-usage-housekeeping;`
 
 2. Check you are good to go
     - Run `start.sh`, you should see "Good to go!" echoed in the command line.
