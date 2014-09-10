@@ -25,10 +25,12 @@ recommend the following: `find`, `awk`, `sort` and `head`.
 
 ##Start
 
-1. Clone the repository
+1. Fork the repository
     - `git clone https://github.com/cuevae/code-katas-unix-disk-usage-housekeeping.git`
     - `cd code-katas-unix-disk-usage-housekeeping;`
 
 2. Check you are good to go
-    - Run `start.sh`, you should see "Good to go!" echoed in the command line.
-    - Star modifying `fbig.sh` to carry out its tasks.
+    - Run `start.sh`, you should see "Good to go!" echoed in the command line
+    - Star modifying `fbig.sh` to carry out its tasks
+
+3. Once you've finished you can create a Pull Request and submit a branch with your solution
